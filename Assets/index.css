@@ -1,6 +1,8 @@
 @charset utf-8;
 avatar {
     display:flex;
+    margin-top: 50px;
+    margin-bottom: 30px;
 }
 avatar item {
     width: 15%;
