@@ -352,7 +352,7 @@ body.sticky .sidebar-toggle {
   width: 100%;
 }
 .markdown-section th {
-  font-weight: 700;
+  color: #0006;
 }
 .markdown-section td,
 .markdown-section th {
@@ -363,10 +363,10 @@ body.sticky .sidebar-toggle {
   border-top: 1px solid #ccc;
 }
 .markdown-section tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: #f3f3f3;
 }
 .markdown-section p.tip {
-  background-color: #f8f8f8;
+  background-color: #f3f3f3;
   border-bottom-right-radius: 2px;
   border-left: 4px solid #f66;
   border-top-right-radius: 2px;
@@ -446,7 +446,7 @@ body.close .content {
     left: 0;
     max-width: 100vw;
     position: static;
-    padding-top: 20px;
+    padding-top: 50px;
     transition: transform 0.25s ease;
   }
   .app-nav,
@@ -726,7 +726,7 @@ body {
 }
 .markdown-section code,
 .markdown-section pre {
-  background-color: #f8f8f8;
+  background-color: #f3f3f3;
 }
 .markdown-section output,
 .markdown-section pre {
