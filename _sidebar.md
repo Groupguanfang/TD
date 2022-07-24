@@ -1,6 +1,7 @@
-- 开门见山
+- 学习
 
   - [起始](README.md)
+  - [感谢](/Study/Thanks.md)
 
 - JSON API
   - 商店
