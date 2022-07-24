@@ -6,8 +6,11 @@ TD主题拥有众多的API，我在这里一一列出来，以供我自己和他
 
 # 安装方法与注意事项
 
-<a target="_blank" href="https://github.com/Groupguanfang/TD">
+<a target="_blank" href="https://github.com/Groupguanfang/TD/blob/Alpha/README.md">
     <button>点击安装</button>
+</a>
+<a target="_blank" href="https://td.xhhzs.cn">
+    <button>点击打开演示站</button>
 </a>
 
 ## 关于JSON API
