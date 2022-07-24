@@ -5,7 +5,7 @@
 - JSON API
   - 商店
     - [添加购物车](API/JSON/GaddCharts.md)
-    - [删除购物车](/_404.md)
+    - [删除购物车](/API/JSON/GdelCharts.md)
     - [购买商品](/_404.md)
   - 文章
     - [发布文章](/_404.md)
