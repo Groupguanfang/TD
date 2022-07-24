@@ -1,12 +1,13 @@
-![logo](_media/icon.svg)
+![logo](Library/TD.png)
 
-# GCZ TD使用文档 <small>文档版本：1.0</small>
+# GCZ TD使用文档
 
 > 一个基于Vue、JQuery和腾讯TDesign的WordPess主题
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
+- 文档版本：1.0
+- 适配主题版本：0.8.5
 
 [GitHub](https://github.com/Groupguanfang/TD)
-[Get Started](#docsify)
+[开始阅读](/README.md)
+
+![](Library/GCZ%20TD%20Background.png)
