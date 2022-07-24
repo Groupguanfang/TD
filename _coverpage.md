@@ -6,6 +6,7 @@
 
 - 文档版本：1.0
 - 适配主题版本：0.8.5
+- 作者：Zero
 
 [GitHub](https://github.com/Groupguanfang/TD)
 [开始阅读](/README.md)
